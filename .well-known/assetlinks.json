@@ -16,7 +16,8 @@
       "namespace": "android_app",
       "package_name": "io.github.nethanelmedina88_cmyk.shlifim",
       "sha256_cert_fingerprints": [
-        "DF:E8:C0:EB:A9:59:94:CB:84:98:1C:4C:71:78:C5:94:FA:C5:55:48:BB:24:8F:3E:FB:B7:FA:54:C5:DD:F5:4F"
+        "DF:E8:C0:EB:A9:59:94:CB:84:98:1C:4C:71:78:C5:94:FA:C5:55:48:BB:24:8F:3E:FB:B7:FA:54:C5:DD:F5:4F",
+        "CB:04:55:AE:B0:61:70:80:EC:EF:0B:C6:D2:7D:10:28:2C:29:B5:25:C4:E7:24:F7:5B:1C:14:C2:0F:AD:A0:AF"
       ]
     }
   }
